@@ -1,0 +1,1 @@
+module.exports = ["SCANQRCODE", "REPORTTOSTAFF", "INPUTANSWER"];
